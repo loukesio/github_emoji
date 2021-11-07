@@ -1,6 +1,8 @@
-# emoji-cheat-sheet
+# emoji-cheat-sheet 
+## this is copied from https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
-This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
+This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html). 
+
 
 ## Table of Contents
 
